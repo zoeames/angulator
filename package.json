@@ -1,17 +1,17 @@
 {
-  "name": "mean-template",
+  "name": "angulator",
   "version": "0.0.0",
-  "description": "The MEAN Template",
+  "description": "Angulator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chyld/mean-template"
+    "url": "https://github.com/zoeames/angulator"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Zoe Ames <zoeames@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chyld/mean-template/issues"
+    "url": "https://github.com/zoeames/angulator/issues"
   },
-  "homepage": "https://github.com/chyld/mean-template",
+  "homepage": "https://github.com/zoeames/angulator",
   "dependencies": {
     "express": "^4.8.8",
     "morgan": "^1.3.0"
